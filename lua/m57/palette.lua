@@ -1,5 +1,5 @@
-local config = require("tokyodark.config")
-local utils = require("tokyodark.utils")
+local config = require("m57.config")
+local utils = require("m57.utils")
 
 local palette = {
     black = "#06080A",
